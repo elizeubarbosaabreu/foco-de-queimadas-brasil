@@ -1,7 +1,9 @@
 # foco-de-queimadas-brasil
 Focos de queimadas no brasil é um sistema gerador de mapas interativos de focos de incêndios do Brasil. Os dados são estraídos da base pública que pode ser adquiridos no link [https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/](https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/)
 
-## Requisitos para gerfar os mapas:
+![newplot.png](newplot.png)
+
+## Requisitos para gerar os mapas:
 - Possuir o Python e o Git no computador
 - Saber um pouco de programação python
 - Clonar ou fazer download desse repositório
