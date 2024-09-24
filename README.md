@@ -22,7 +22,7 @@ source env/bin/activate
 # instala as dependencias
 pip install -r requirements.txt
 # Abrir o arquivo no vs code com a extensão jupyter
-code mapa.ipynb
+code .
 ~~~
 
 Obs: também da para utilizar com o [Jupyter Notebook](https://jupyter.org/) ou com o [Google Colab](colab.research.google.com).
